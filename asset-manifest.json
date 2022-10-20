@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/magic-memory-react/static/css/main.22e20855.chunk.css",
+    "main.js": "/magic-memory-react/static/js/main.6321111c.chunk.js",
+    "main.js.map": "/magic-memory-react/static/js/main.6321111c.chunk.js.map",
+    "runtime-main.js": "/magic-memory-react/static/js/runtime-main.835f0c43.js",
+    "runtime-main.js.map": "/magic-memory-react/static/js/runtime-main.835f0c43.js.map",
+    "static/js/2.cb5ea45b.chunk.js": "/magic-memory-react/static/js/2.cb5ea45b.chunk.js",
+    "static/js/2.cb5ea45b.chunk.js.map": "/magic-memory-react/static/js/2.cb5ea45b.chunk.js.map",
+    "index.html": "/magic-memory-react/index.html",
+    "static/css/main.22e20855.chunk.css.map": "/magic-memory-react/static/css/main.22e20855.chunk.css.map",
+    "static/js/2.cb5ea45b.chunk.js.LICENSE.txt": "/magic-memory-react/static/js/2.cb5ea45b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.835f0c43.js",
+    "static/js/2.cb5ea45b.chunk.js",
+    "static/css/main.22e20855.chunk.css",
+    "static/js/main.6321111c.chunk.js"
+  ]
+}
